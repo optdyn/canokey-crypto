@@ -1,3 +1,4 @@
 [submodule "mbedtls"]
 	path = mbedtls
 	url = https://github.com/optdyn/mbedtls/
+	branch = revD_cable
